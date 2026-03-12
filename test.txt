@@ -1,1 +1,5 @@
+HEAD
 A line
+and
+B line
+f36f326 (feat: change to B)
